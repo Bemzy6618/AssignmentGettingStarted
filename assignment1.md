@@ -34,3 +34,9 @@ Employee Onboarding Process:
 2.	“What specific challenges or obstacles have you identified that cause the 3-month onboarding period?”
 3.	“Are there any digital tools or systems currently used during the employee onboarding process?”
 4.	“How do you measure a successful onboarding process for new employees?”
+
+# Client Onboarding Process:
+1.	“Can you walk me through the existing client onboarding process? What steps do your employees currently follow?”
+2.	“How do individual employee methods differ, and what impact does this have on customer satisfaction?”
+3.	“What feedback have you received directly from customers about the onboarding flow?”
+4.	“Which parts of the client onboarding process are reported as most confusing or frustrating by your customers?”
