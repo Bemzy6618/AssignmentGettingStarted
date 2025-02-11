@@ -13,3 +13,16 @@ Before the meeting, the following assumptions have been made based on preliminar
 5.	It's assumed that employees are willing to participate in training programs to learn and adopt the new standardized onboarding process.
 6.	It's assumed that the client is willing to implement a system for collecting feedback from employees and customers to continuously improve the onboarding process.
 7.	It's assumed that there will be clear and open communication channels between the project team and the client to address any issues or concerns promptly.
+
+# Requirements Breakdown
+1.	Reduce the three-month onboarding timeframe to a more manageable one.
+2.	Establish and implement a uniform handling that all representatives follow. 
+3.	Create clear, concise training materials and documentation to facilitate quicker onboarding.
+4.	Evaluate and possibly integrate digital tools to streamline HR processes and track progress.
+5. 	Redesign the client onboarding flow to make it intuitive and easy to follow.
+6.	Develop a uniform process that minimizes individual “flavours” and ensures consistency.
+7.	Improve the interface and interaction points to reduce customer frustration.
+8.	Establish channels for ongoing feedback from both clients and employees to continuously refine the process.
+9.	Ensure new processes or tools work seamlessly with current systems.
+10.	Develop processes that can grow with the business.
+11.	Consider any regulatory requirements or security concerns, especially concerning employee and client data.
