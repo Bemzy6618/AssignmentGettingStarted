@@ -29,7 +29,7 @@ Before the meeting, the following assumptions have been made based on preliminar
 
 # Questions & Knowledge I intend to expose
 
-Employee Onboarding Process:
+# Employee Onboarding Process:
 1.	“Can you describe the current steps involved in onboarding a new employee? Which steps are the most time-consuming?”
 2.	“What specific challenges or obstacles have you identified that cause the 3-month onboarding period?”
 3.	“Are there any digital tools or systems currently used during the employee onboarding process?”
@@ -40,3 +40,9 @@ Employee Onboarding Process:
 2.	“How do individual employee methods differ, and what impact does this have on customer satisfaction?”
 3.	“What feedback have you received directly from customers about the onboarding flow?”
 4.	“Which parts of the client onboarding process are reported as most confusing or frustrating by your customers?”
+
+# General Experience:
+1.	“Do you have historical data on onboarding times and customer feedback that we can analyze?”
+2.	“Are there any existing initiatives or projects aimed at addressing these onboarding challenges?”
+3.	“What are your primary goals in streamlining these processes – speed, cost, quality, customer satisfaction, or a combination?”
+4.	“How open is your organization to adopting new processes or technology solutions?”
