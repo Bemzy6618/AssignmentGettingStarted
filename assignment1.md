@@ -14,6 +14,14 @@ Before the meeting, the following assumptions have been made based on preliminar
 6.	It's assumed that the client is willing to implement a system for collecting feedback from employees and customers to continuously improve the onboarding process.
 7.	It's assumed that there will be clear and open communication channels between the project team and the client to address any issues or concerns promptly.
 
+# Plan to Validate Assumptions with the Client
+
+During the initial meeting, the following steps will be taken to validate assumptions:
+
+1. Discuss Openness to Change: Engage the client in a conversation about their readiness to adopt new systems and processes.
+2. Assess Staff Willingness: Inquire about the team's receptiveness to standardized procedures and any potential resistance.
+3. Evaluate Resource Availability: Discuss the availability of resources, including time, budget, and personnel, to support the development and implementation of proposed solutions.
+
 # Requirements Breakdown
 1.	Reduce the three-month onboarding timeframe to a more manageable one.
 2.	Establish and implement a uniform handling that all representatives follow. 
