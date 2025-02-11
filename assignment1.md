@@ -26,3 +26,11 @@ Before the meeting, the following assumptions have been made based on preliminar
 9.	Ensure new processes or tools work seamlessly with current systems.
 10.	Develop processes that can grow with the business.
 11.	Consider any regulatory requirements or security concerns, especially concerning employee and client data.
+
+# Questions & Knowledge I intend to expose
+
+Employee Onboarding Process:
+1.	“Can you describe the current steps involved in onboarding a new employee? Which steps are the most time-consuming?”
+2.	“What specific challenges or obstacles have you identified that cause the 3-month onboarding period?”
+3.	“Are there any digital tools or systems currently used during the employee onboarding process?”
+4.	“How do you measure a successful onboarding process for new employees?”
