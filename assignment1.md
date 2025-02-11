@@ -46,3 +46,12 @@ Before the meeting, the following assumptions have been made based on preliminar
 2.	“Are there any existing initiatives or projects aimed at addressing these onboarding challenges?”
 3.	“What are your primary goals in streamlining these processes – speed, cost, quality, customer satisfaction, or a combination?”
 4.	“How open is your organization to adopting new processes or technology solutions?”
+
+# Follow-Up Clarification Questions:
+1.	“What would be an acceptable timeframe for the new employee onboarding process?”.
+2.	“Are there any specific tools or technologies you believe could help streamline the onboarding process?”.
+3.	“How do you currently collect feedback from employees about the onboarding process?”.
+4.	“Are there any specific areas where you think additional training would be beneficial?”.
+5.	“Are there any specific points in the onboarding process where you felt particularly confused or frustrated?”.
+6.	“Would you find value in receiving follow-up communications to ensure the onboarding process is clear and satisfactory?”.
+7.	“Are there any additional services or information you would like to have during the onboarding process?”.
