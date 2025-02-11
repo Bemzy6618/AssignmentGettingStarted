@@ -55,3 +55,12 @@ Before the meeting, the following assumptions have been made based on preliminar
 5.	“Are there any specific points in the onboarding process where you felt particularly confused or frustrated?”.
 6.	“Would you find value in receiving follow-up communications to ensure the onboarding process is clear and satisfactory?”.
 7.	“Are there any additional services or information you would like to have during the onboarding process?”.
+
+# Preliminary Tasks:
+1.	Understand the current employee and client onboarding processes.
+2.	Identify pain points and areas of improvement in the onboarding processes.
+3.	Create a standard process for client onboarding.
+4.	Develop a training program for employees on the new process.
+5.	Collect feedback from employees and clients.
+6.	Make adjustments based on feedback.
+7.	Implement the improved onboarding processes
